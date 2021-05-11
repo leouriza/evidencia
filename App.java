@@ -4,7 +4,7 @@ public class App {
     }
 }
 
-
+//Solucionando conflicto entre ramas
 
 
 //probando que la rama develop funciona correctamente
