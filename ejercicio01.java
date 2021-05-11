@@ -21,6 +21,6 @@ public class ejercicio01 {
 			System.out.println("Tú nombre no cumple con las condiciones y es: " + nombre);
 		{
 		}
-		enter.close();
+		enter.close(); //realizando un comentario para git
 	}
 }

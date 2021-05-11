@@ -4,4 +4,8 @@ public class App {
     }
 }
 
-//generando conflicto entre las ramas
+//Solucionando conflicto entre ramas
+
+
+//probando que la rama develop funciona correctamente
+// saludando al profe
